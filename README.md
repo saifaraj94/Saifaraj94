@@ -1,8 +1,8 @@
 <h1 align="left"> Hey there I'm Saif Araj 👋</h1>
 I’m a passionate Junior Quality Assurance Engineer With a natural problem solving mindset and a constant drive to improve, I enjoy digging deep to identify issues and deliver reliable, high quality software. I take pride in my work, stay curious, and always aim to learn and grow both as a professional and as part of a team.
 
-<h2👯 Collaboration
-I'm always open to collaborating on interesting projects. If you have an exciting idea or need help with something, feel free to reach out!</h2>
+👯 Collaboration:
+I'm always open to collaborating on interesting projects. If you have an exciting idea or need help with something, feel free to reach out!
 
 - 📫 How to reach me **saifaraj94@gmail.com**
 
