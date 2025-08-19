@@ -20,7 +20,7 @@ If you have an exciting idea or need help with something, feel free to reach out
 
 
 ## 💻 Technical Projects
- ### **OrangeHRM Manual Testing Project**
+ ### [OrangeHRM Manual Testing Project](https://github.com/saifaraj94/Testing-OrangeHRM)
 Manual testing of the OrangeHRM application, following Agile methodologies.  
 - Designed and executed test cases in Excel to validate HR admin features  
 - Created a Test Plan outlining scope, objectives, and testing approach  
