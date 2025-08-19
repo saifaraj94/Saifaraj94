@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Saif Araj</h1>
-<h3 align="center">A passionate QA Engineer | Ensuring Quality through Manual & Automated Testing" from Palestine</h3>
+<h1 align="center">Hi, I'm Saif Araj</h1>
+<h3 align="center">I’m a passionate Junior Quality Assurance Engineer currently training at AXSOS Academy GmbH, where I’m building a strong foundation in software testing and development. With a natural problem solving mindset and a constant drive to improve, I enjoy digging deep to identify issues and deliver reliable, high quality software. I take pride in my work, stay curious, and always aim to learn and grow both as a professional and as part of a team.</h3>
 
-- 📫 How to reach me **saifaraj94@gmail.com**
+- 👯 Collaboration **I'm always open to collaborating on interesting projects. If you have an exciting idea or need help with something, feel free to reach out!**
+
+- 📫 How to reach me **Email:saifaraj94@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/saif araj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saifaraj" height="30" width="40" /></a>
-<a href="https://fb.com/saif araj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saifaraj" height="30" width="40" /></a>
-<a href="https://instagram.com/saif araj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saifaraj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/saif-araj-a29553363/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saif-araj-a29553363/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
