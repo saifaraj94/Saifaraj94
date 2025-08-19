@@ -18,6 +18,7 @@ If you have an exciting idea or need help with something, feel free to reach out
 - **ApiTesting: Postman**  
 - **Problem-Solving & Critical Thinking**
 
+
 ## 💻 Technical Projects
  ### **OrangeHRM Manual Testing Project**
 Manual testing of the OrangeHRM application, following Agile methodologies.  
@@ -28,7 +29,7 @@ Manual testing of the OrangeHRM application, following Agile methodologies.
 - Reported and tracked bugs in Excel to support development team fixes  
 - Presented project results using PowerPoint to demonstrate testing process and findings  
 
-### **API Testing Project – Contact List App **
+### **API Testing Project – Contact List App**
 API testing project for a contact list application.  
 - Designed and executed API test cases using Postman to validate endpoints  
 - Created a Test Plan defining testing scope, strategy, and tools used  
