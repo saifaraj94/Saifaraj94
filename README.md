@@ -29,7 +29,7 @@ Manual testing of the OrangeHRM application, following Agile methodologies.
 - Reported and tracked bugs in Excel to support development team fixes  
 - Presented project results using PowerPoint to demonstrate testing process and findings  
 
-### [API Testing Project – Contact List App](https://github.com/yourusername/contact-list-api-testing)
+### [API Testing Project – Contact List App](https://github.com/saifaraj94/ContactListApp---APITesting)
 API testing project for a contact list application.  
 - Designed and executed API test cases using Postman to validate endpoints  
 - Created a Test Plan defining testing scope, strategy, and tools used  
