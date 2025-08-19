@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Saif Araj</h1>
-<h3 align="center">I’m a passionate Junior Quality Assurance Engineer currently training at AXSOS Academy GmbH, where I’m building a strong foundation in software testing and development. With a natural problem solving mindset and a constant drive to improve, I enjoy digging deep to identify issues and deliver reliable, high quality software. I take pride in my work, stay curious, and always aim to learn and grow both as a professional and as part of a team.</h3>
+<h3 align="center">I’m a passionate Junior Quality Assurance Engineer, With a natural problem solving mindset and a constant drive to improve, I enjoy digging deep to identify issues and deliver reliable, high quality software. I take pride in my work, stay curious, and always aim to learn and grow both as a professional and as part of a team.</h3>
 
 - 👯 Collaboration **I'm always open to collaborating on interesting projects. If you have an exciting idea or need help with something, feel free to reach out!**
 
