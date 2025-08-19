@@ -1,10 +1,33 @@
-<h1 align="left"> Hey there I'm Saif Araj 👋</h1>
-I’m a passionate Junior Quality Assurance Engineer With a natural problem solving mindset and a constant drive to improve, I enjoy digging deep to identify issues and deliver reliable, high quality software. I take pride in my work, stay curious, and always aim to learn and grow both as a professional and as part of a team.
+# Hi there 👋, I'm Saif Araj
+
+## 🌟 About Me
+I’m a **passionate Junior Quality Assurance Engineer** with a natural problem-solving mindset and a constant drive to improve.  
+I enjoy digging deep to identify issues and deliver reliable, high-quality software. I take pride in my work, stay curious, and always aim to learn and grow both as a professional and as part of a team.
+
+## 🤝 Collaboration
+I'm always open to collaborating on interesting projects.  
+If you have an exciting idea or need help with something, feel free to reach out!
+
+## 🛠️ Skills & Tools
+- **Manual Testing & Test Case Design**  
+- **Automation Testing:** Selenium, TestNG, Java  
+- **Test Documentation & Reporting**  
+- **Agile & Scrum Methodologies**  
+- **Bug Tracking Tools:** JIRA,  
+- **SQL & Database Testing**  
+- **ApiTesting** Postman  
+- **Problem-Solving & Critical Thinking**
+
+## 🎯 Goals & Interests
+I’m passionate about improving software quality, learning new testing frameworks, and contributing to projects that make an impact.  
+Always exploring new tools, techniques, and technologies in **QA and software testing**.
+
+## 📫 Contact Me
+Feel free to reach out via GitHub or connect with me on **LinkedIn**.  
+I love talking about testing, software quality, and collaborating on projects!
 
 
-I'm always open to collaborating on interesting projects. If you have an exciting idea or need help with something, feel free to reach out!
-
-- 📫 How to reach me **saifaraj94@gmail.com**
+📫 How to reach me **saifaraj94@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
