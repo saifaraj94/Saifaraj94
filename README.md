@@ -18,6 +18,26 @@ If you have an exciting idea or need help with something, feel free to reach out
 - **ApiTesting: Postman**  
 - **Problem-Solving & Critical Thinking**
 
+## 💻 Technical Projects
+ ### **OrangeHRM Manual Testing Project**
+Manual testing of the OrangeHRM application, following Agile methodologies.  
+- Designed and executed test cases in Excel to validate HR admin features  
+- Created a Test Plan outlining scope, objectives, and testing approach  
+- Tracked tasks and test progress using Trello, ensuring transparent collaboration  
+- Created a Requirements Traceability Matrix (RTM) and a Test Summary Report to document testing coverage and outcomes  
+- Reported and tracked bugs in Excel to support development team fixes  
+- Presented project results using PowerPoint to demonstrate testing process and findings  
+
+### **API Testing Project – Contact List App **
+API testing project for a contact list application.  
+- Designed and executed API test cases using Postman to validate endpoints  
+- Created a Test Plan defining testing scope, strategy, and tools used  
+- Used Excel for test case management and bug reporting  
+- Collaborated with the team using Trello to manage workflow and track progress  
+- Reported defects with clear details to improve API reliability  
+- Delivered final project presentation in PowerPoint, highlighting test strategy and outcomes  
+
+
 ## 🎯 Goals & Interests
 I’m passionate about improving software quality, learning new testing frameworks, and contributing to projects that make an impact.  
 Always exploring new tools, techniques, and technologies in QA and software testing.
