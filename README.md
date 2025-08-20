@@ -1,26 +1,26 @@
-# Hi there 👋, I'm Saif Araj
+# Hi there, I'm Saif Araj 👋
 
 ## 🌟 About Me
 I’m a passionate Junior Quality Assurance Engineer with a natural problem-solving mindset and a constant drive to improve.  
 I enjoy digging deep to identify issues and deliver reliable, high-quality software. I take pride in my work, stay curious, and always aim to learn and grow both as a professional and as part of a team.
 
-## 🤝 Collaboration
+## 👥 Collaboration
 I'm always open to collaborating on interesting projects.  
 If you have an exciting idea or need help with something, feel free to reach out!
 
 ## 🛠️ Skills & Tools
-- **Manual Testing & Test Case Design**  
-- **Automation Testing: Selenium, TestNG, Java** 
-- **Test Documentation & Reporting**  
-- **Agile & Scrum Methodologies**  
-- **Bug Tracking Tools: Jira**  
-- **SQL & Database Testing**  
-- **ApiTesting: Postman**  
-- **Problem-Solving & Critical Thinking**
+- 📝Manual Testing & Test Case Design 
+- 🤖Automation Testing: Selenium, TestNG, Java 
+- 📄Test Documentation & Reporting 
+- 🏃‍♂️Agile & Scrum Methodologies 
+- 🐞Bug Tracking Tools: Jira 
+- 🗄️SQL & Database Testing 
+- 🌐API Testing: Postman  
+- 🧠Problem-Solving & Critical Thinking
 
 
-## 💻 Technical Projects
- ### [OrangeHRM Manual Testing Project](https://github.com/saifaraj94/Testing-OrangeHRM)
+## 🖥️ Projects
+ ### ⚡[OrangeHRM Manual Testing Project](https://github.com/saifaraj94/Testing-OrangeHRM)
 Manual testing of the OrangeHRM application, following Agile methodologies.  
 - Designed and executed test cases in Excel to validate HR admin features  
 - Created a Test Plan outlining scope, objectives, and testing approach  
@@ -29,7 +29,7 @@ Manual testing of the OrangeHRM application, following Agile methodologies.
 - Reported and tracked bugs in Excel to support development team fixes  
 - Presented project results using PowerPoint to demonstrate testing process and findings  
 
-### [API Testing Project – Contact List App](https://github.com/saifaraj94/ContactListApp---APITesting)
+### ⚡[API Testing Project – Contact List App](https://github.com/saifaraj94/ContactListApp---APITesting)
 API testing project for a contact list application.  
 - Designed and executed API test cases using Postman to validate endpoints  
 - Created a Test Plan defining testing scope, strategy, and tools used  
