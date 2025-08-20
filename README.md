@@ -12,7 +12,7 @@ If you have an exciting idea or need help with something, feel free to reach out
 - 📝Manual Testing & Test Case Design 
 - 🤖Automation Testing: Selenium, TestNG, Java 
 - 📄Test Documentation & Reporting 
-- 🏃‍♂️Agile & Scrum Methodologies 
+- 🔄Agile & Scrum Methodologies 
 - 🐞Bug Tracking Tools: Jira 
 - 🗄️SQL & Database Testing 
 - 🌐API Testing: Postman  
@@ -21,7 +21,6 @@ If you have an exciting idea or need help with something, feel free to reach out
 
 ## 🖥️ Projects
  ### ⚡[OrangeHRM Manual Testing Project](https://github.com/saifaraj94/Testing-OrangeHRM)
-Manual testing of the OrangeHRM application, following Agile methodologies.  
 - Designed and executed test cases in Excel to validate HR admin features  
 - Created a Test Plan outlining scope, objectives, and testing approach  
 - Tracked tasks and test progress using Trello, ensuring transparent collaboration  
@@ -30,7 +29,6 @@ Manual testing of the OrangeHRM application, following Agile methodologies.
 - Presented project results using PowerPoint to demonstrate testing process and findings  
 
 ### ⚡[API Testing Project – Contact List App](https://github.com/saifaraj94/ContactListApp---APITesting)
-API testing project for a contact list application.  
 - Designed and executed API test cases using Postman to validate endpoints  
 - Created a Test Plan defining testing scope, strategy, and tools used  
 - Used Excel for test case management and bug reporting  
