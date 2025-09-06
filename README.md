@@ -34,7 +34,17 @@ If you have an exciting idea or need help with something, feel free to reach out
 - Used Excel for test case management and bug reporting  
 - Collaborated with the team using Trello to manage workflow and track progress  
 - Reported defects with clear details to improve API reliability  
-- Delivered final project presentation in PowerPoint, highlighting test strategy and outcomes  
+- Delivered final project presentation in PowerPoint, highlighting test strategy and outcomes
+
+ ### ⚡[OrangeHRM Automation Testing Project](https://github.com/saifaraj94/OrangeHRM-Automation-Testing)
+-Designed manual & automated test cases for core HR Admin modules.
+-Created a Test Plan defining scope, objectives, test approach, entry/exit criteria, and deliverables.
+-Set up a Java Maven project, integrating Selenium WebDriver and TestNG for structured automation testing.
+-Implemented Page Object Model (POM) for reusable and maintainable test scripts.
+-Configured TestNG XML to organize suites, groups, and parallel execution.
+-Generated TestNG & Extent Reports for detailed test execution results.
+-Used Trello for task tracking and collaboration, ensuring transparency in test progress.
+-Delivered final project presentation in PowerPoint, summarizing test strategy, execution, and results.
 
 
 ## 🎯 Goals & Interests
