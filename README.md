@@ -10,7 +10,7 @@ If you have an exciting idea or need help with something, feel free to reach out
 
 ## 🛠️ Skills & Tools
 - 📝Manual Testing & Test Case Design 
-- 🤖Automation Testing: Selenium, TestNG, Java
+- 🤖Automation Testing: Selenium, TestNG, Java, Eclipse IDE
 - 📱Mobile Testing: Appium, Android Studio
 - ⚡Performance Testing: JMeter
 - 🌐API Testing: Postman
