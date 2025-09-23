@@ -48,7 +48,7 @@ If you have an exciting idea or need help with something, feel free to reach out
 - Used Trello for task tracking and collaboration, ensuring transparency in test progress.
 - Delivered final project presentation in PowerPoint, summarizing test strategy, execution, and results.
 
-### ⚡[Tasks.org Mobile Testing Project](https://github.com/saifaraj94/MobileTestingProject).
+### ⚡[Tasks.org Mobile Testing Project](https://github.com/saifaraj94/MobileTestingProject)
 - Designed manual & automated test cases for the Tasks.org mobile application.  
 - Created a comprehensive Test Plan defining scope, objectives, testing approach, entry/exit criteria, and deliverables.  
 - Set up a Java Maven project, integrating Appium with TestNG for structured mobile automation testing.  
