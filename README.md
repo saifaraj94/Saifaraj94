@@ -48,6 +48,18 @@ If you have an exciting idea or need help with something, feel free to reach out
 - Used Trello for task tracking and collaboration, ensuring transparency in test progress.
 - Delivered final project presentation in PowerPoint, summarizing test strategy, execution, and results.
 
+  ### ⚡[Tasks.org Mobile Testing Project](https://github.com/saifaraj94/MobileTestingProject).
+- Designed manual & automated test cases for the Tasks.org mobile application.  
+- Created a comprehensive Test Plan defining scope, objectives, testing approach, entry/exit criteria, and deliverables.  
+- Set up a Java Maven project, integrating Appium with TestNG for structured mobile automation testing.  
+- Configured Android Studio emulator to simulate mobile environments for consistent and reliable testing.  
+- Implemented Page Object Model (POM) for reusable and maintainable test scripts.  
+- Configured TestNG XML to organize suites, groups, and enable parallel execution across mobile workflows.  
+- Generated TestNG & Extent Reports for detailed test execution results.  
+- Used Trello for task tracking and collaboration, ensuring transparency in test progress.  
+- Delivered final project presentation in PowerPoint, summarizing testing scope, automation strategy, execution, and results.  
+
+
 
 ## 🎯 Goals & Interests
 I’m passionate about improving software quality, learning new testing frameworks, and contributing to projects that make an impact.  
