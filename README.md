@@ -59,7 +59,7 @@ If you have an exciting idea or need help with something, feel free to reach out
 - Used Trello for task tracking and collaboration, ensuring transparency in test progress.  
 - Delivered final project presentation in PowerPoint, summarizing testing scope, automation strategy, execution, and results.  
 
-### ⚡[Qacart-todo Playwright Automation Project using TypeScript](https://github.com/saifaraj94/Playwright-todo-project)
+### ⚡[Qacart-todo Automation Testing Project using PlayWright with TypeScript](https://github.com/saifaraj94/Playwright-todo-project)
 - Page Object Model (POM): Organized UI tests for better readability and maintainability.  
 - API Testing with Playwright: Uses Playwright’s APIRequestContext to validate backend endpoints.  
 - Dynamic Test Data: Generates realistic test data using Faker.js.  
